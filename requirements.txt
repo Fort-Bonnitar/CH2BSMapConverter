@@ -1,0 +1,7 @@
+pydub
+pathlib
+configparser
+zipfile
+mido
+Pillow
+customtkinter
