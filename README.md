@@ -1,4 +1,4 @@
-# MIDI2BSMap
+# CH2BSMapConverter
 
 A tool to seamlessly convert Clone Hero song ZIP files into playable Beat Saber maps. This project aims to bridge the gap between two popular rhythm games, allowing you to bring your extensive Clone Hero library into Beat Saber with minimal effort.
 
