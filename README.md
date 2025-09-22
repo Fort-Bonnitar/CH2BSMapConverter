@@ -82,7 +82,7 @@ Once installed, you can launch the application and start converting your Clone H
 Make sure your virtual environment is activated (see Installation step 2.2). Then run:
 
 ```bash
-python src/main.py
+python -m src.main
 ```
 
 This will open the graphical user interface.
